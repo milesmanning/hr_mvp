@@ -1,0 +1,11 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "Hack Reactor Fullstack MVP Project (1/26/19-1/29/19)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
